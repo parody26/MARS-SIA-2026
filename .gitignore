@@ -1,1 +1,3 @@
 archive/deberta_model/
+predictions.csv
+dossiers_output.json
